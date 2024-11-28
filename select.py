@@ -1,5 +1,4 @@
 from sqlite3 import Error
-
 from connect import create_connection, database
 
 def select_projects(conn):

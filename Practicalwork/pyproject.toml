@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sqlite3-practicalwork"
+version = "0.1.0"
+description = "Improving SQLite database skills"
+authors = ["mrdrebot <m.r.drebot.j@gmail.com>"]
+license = "MTI"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
